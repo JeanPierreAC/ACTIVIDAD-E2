@@ -1,4 +1,4 @@
-#Programas en c++ de Angulo Jean
+# Programas en c++ de Angulo Jean
 ## Informacion del autor
 `Angulo Cedeño Jean Pierre`
 ## Correo electronico
@@ -59,6 +59,9 @@ int aj_aac,aj_mac,aj_dac,aj_ana,aj_mna,aj_dna,aj_anio,aj_mes,aj_dia;
 ```
 #### Salida
 ```
+si aj_dac<aj_dna       // aj_dac=aj_dac+30; aj_mac=aj_mac-1; aj_dia=aj_dac-aj_dna;
+si no aj_dia=aj_dac-aj_dna;
+si aj_mac<aj_mna       // aj_mac=aj_mac+12; aj_aac=aj_aac-1; aj_mes=aj_mac-aj_mna;
 aj_mes=aj_mac-aj_mna
 aj_aac-aj_ana
 aj_dia
@@ -78,9 +81,20 @@ float aj_x, aj_t=0,aj_t1=0, aj_t2=0, aj_mon=0.10;
 ```
 si aj_x==aj_mon  // aj_c1=aj_c1+1;  aj_t1=aj_t1+aj_x;
 si aj_x==0.25    // aj_c2=aj_c2+1;  aj_t2=aj_t2+aj_x;
-aj_c1,aj_t1,aj_c2,aj_t2
+aj_c1,aj_t1,aj_c2,aj_t2;
 ```
 ## Instalador
+## Descargar el repositorio
 ```
-git clone 
+git clone https://github.com/JeanPierreAC/ACTIVIDAD-E2.git
+```
+## Compilar y ejecutar
+```
+cd ACTIVIDAD-E2
+```
+```
+AnguloJean-sumaN.cpp
+```
+```
+g++ AnguloJean-sumaN.cpp -o sumaN-ejecutable
 ```
