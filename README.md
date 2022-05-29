@@ -1,9 +1,9 @@
 # Programas en c++ de Angulo Jean
-## Informacion del autor
+### Informacion del autor
 `Angulo Cedeño Jean Pierre`
-## Correo electronico
+### Correo electronico
 `jean.angulo.cedeno@utelvt.edu.ec`
-## Enlase de la Actividad B1
+### Enlase de la Actividad B1
 `https://youtu.be/agNW0XiCYtM`
 
 ##  Programas
