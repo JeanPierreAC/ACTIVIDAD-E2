@@ -3,7 +3,7 @@
 `Angulo Cedeño Jean Pierre`
 ### Correo electronico
 `jean.angulo.cedeno@utelvt.edu.ec`
-### Enlase de la Actividad B1
+### Enlace de la Actividad B1
 `https://youtu.be/agNW0XiCYtM`
 
 ##  Programas
