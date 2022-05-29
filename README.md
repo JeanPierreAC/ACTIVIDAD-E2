@@ -8,7 +8,7 @@
 
 ##  Programas
 ###  Suma de varios numeros
-#### Descripcion del problema
+#### Descripción del problema
 ```
 Una suma o adicion es una operación matemática que reune dos o más números llamados sumandos en un solo número llamado suma o total. Los sumandos son los valores que se desean combinar y la suma es el resultado de la operación.
 ```
@@ -22,7 +22,7 @@ El resultado de la suma es aj_t;
 ```
 
 ### Compara dos numeros
-#### Descripcion del problema
+#### Descripción del problema
 ```
 Consiste en ingresar dos valores y determinar cual es mayor y cual menor o si son iguales.
 ```
@@ -36,7 +36,7 @@ si aj_a==aj_c // son iguales
 si aj_a<aj_c  // es menor
 ```
 ###  Punto venta
-#### Descripcion del problema
+#### Descripción del problema
 ```
 Programa que ingresa el numero de productos, el iva, el descuento y que calcule el valor total a pagar.
 ```
@@ -49,7 +49,7 @@ float aj_p,aj_cp,aj_i,aj_vp,aj_c=0,aj_tp=0,aj_d,aj_vbr1,aj_vbr2,aj_vd,aj_vi;
 aj_tp,aj_i,aj_d,aj_vp;
 ```
 ### La edad de una persona
-#### Descripcion del problema
+#### Descripción del problema
 ```
 Programa que calcula la edad de una persona en el que ingresa el dia, mes, año actual y dia, mes y año de nacimiento.
 ```
@@ -68,7 +68,7 @@ aj_dia
 aj_mes
 ```
 ###  Cuenta Moneda
-#### Descripcion del problema
+#### Descripción del problema
 ```
 Programa que calcule el numero de monedas de 0.10y0.25ctvs ingresando la cantidad, dando como resultado el numero y la suma de las monedas.
 ```
